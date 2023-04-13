@@ -11,6 +11,6 @@ def binary_search(array, target):
 		
 
 array = [1,4,5,5,7]
-x = 2
+x = 8
 
 print(binary_search(array=array, target=x))
