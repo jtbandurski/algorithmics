@@ -1,0 +1,9 @@
+11 4 4 
+4 1 4 1 0 0 4 1 1 1 1 
+5 9 2 9 
+3 1 2 0 
+
+n m k
+level
+time limit
+stamina
