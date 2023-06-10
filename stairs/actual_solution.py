@@ -57,12 +57,12 @@ def stairs(n, position, operation):
 # Set SUBMIT_TO_SZKOPUL=False in order
 # to test your code by reading the input from
 # a test file ("input0.txt").
-SUBMIT_TO_SZKOPUL = True
+SUBMIT_TO_SZKOPUL = False
 
 if SUBMIT_TO_SZKOPUL:
     reader = sys.stdin
 else:
-    reader = open("input0b.txt","r")
+    reader = open("test_input.txt","r")
  
 # Reads the input
 astr = reader.readline().split()
